@@ -1,3 +1,3 @@
 # hash-forks
 
-Renesis hash improvements start September 2018 .
+Renesis hash improvements.
