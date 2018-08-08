@@ -2,6 +2,6 @@
 
 Renesis XT hash improvement repo.
 
-                                              Come at me bro !
-                                                           -_-
+Come at me bro !
+            -_-
                                                                  
